@@ -1,0 +1,25 @@
+{
+  "name": "{{name}}",
+  "version": "0.0.0",
+  "description": "",
+  "keywords": [],
+  "repository": "KenanY/{{name}}",
+  "license": "MIT",
+  "author": "Kenan Yildirim <kenan@kenany.me> (http://kenany.me/)",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "LICENSE.txt"
+  ],
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tape test/index.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "lodash.isfunction": "^2.4.1",
+    "tape": "^2.14.0"
+  }
+}
