@@ -20,6 +20,6 @@
   "dependencies": {},
   "devDependencies": {
     "lodash.isfunction": "^2.4.1",
-    "tape": "^2.14.0"
+    "tape": "^3.0.0"
   }
 }
