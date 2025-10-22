@@ -22,7 +22,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "lodash.isfunction": "^3.0.9",
-    "tape": "^5.9.0"
+    "lodash.isfunction": "3.0.9",
+    "tape": "5.9.0"
   }
 }
