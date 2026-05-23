@@ -5,10 +5,10 @@
 ## Example
 
 ``` javascript
-var {{name}} = require('{{name}}');
+import { add } from '@kenan/module-template';
 
-{{name}}();
-// =>
+add(1, 2);
+// => 3
 ```
 
 ## Installation
@@ -20,8 +20,7 @@ $ npm install {{name}}
 ## API
 
 ``` javascript
-var {{name}} = require('{{name}}');
+import { add } from '@kenan/module-template';
 ```
 
-### `{{name}}()`
-
+### `add(x: number, y: number)`
