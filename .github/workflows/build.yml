@@ -35,7 +35,7 @@ jobs:
         uses: pnpm/setup@5d160c5bc68a09337ad0d5654e237e03253b5879 # v1.0.0
         with:
           cache: true
-          runtime: node@24.16.0
+          runtime: node@24.19.0
           version: 11.7.0
 
       - name: Install dependencies
@@ -59,7 +59,7 @@ jobs:
         uses: pnpm/setup@5d160c5bc68a09337ad0d5654e237e03253b5879 # v1.0.0
         with:
           cache: true
-          runtime: node@24.16.0
+          runtime: node@24.19.0
           version: 11.7.0
 
       - name: Install dependencies
@@ -83,7 +83,7 @@ jobs:
         uses: pnpm/setup@5d160c5bc68a09337ad0d5654e237e03253b5879 # v1.0.0
         with:
           cache: true
-          runtime: node@24.16.0
+          runtime: node@24.19.0
           version: 11.7.0
 
       - name: Install dependencies
@@ -107,7 +107,7 @@ jobs:
         uses: pnpm/setup@5d160c5bc68a09337ad0d5654e237e03253b5879 # v1.0.0
         with:
           cache: true
-          runtime: node@24.16.0
+          runtime: node@24.19.0
           version: 11.7.0
 
       - name: Install dependencies
