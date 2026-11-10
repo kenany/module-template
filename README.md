@@ -1,10 +1,8 @@
 # {{name}}
 
-
-
 ## Example
 
-``` javascript
+```javascript
 import { add } from '@kenan/module-template';
 
 add(1, 2);
@@ -13,13 +11,13 @@ add(1, 2);
 
 ## Installation
 
-``` bash
+```bash
 $ npm install {{name}}
 ```
 
 ## API
 
-``` javascript
+```javascript
 import { add } from '@kenan/module-template';
 ```
 
